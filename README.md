@@ -1,3 +1,3 @@
 # BranchTest
 
-## name = jihun
+## name = gyeongun
